@@ -5,7 +5,7 @@ public class Ffff {
         while (i < 350) {
             i++;
         }
-
+        System.out.println("Value i = ");
         System.out.println("Value i = ");
     }
 }
