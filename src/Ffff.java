@@ -6,7 +6,7 @@ public class Ffff {
             i++;
         }
 
-        System.out.println("Value i = " + i);
+        System.out.println("Vfnfn " + i);
     }
 }
 
